@@ -8,8 +8,7 @@ Hello, as i said, i searched ways to do this and i saw the brilliant job[1][2] a
 
 the final image contains the original, the GAN's output and her with 2 bonus effects:
 
-<img src=“https://github.com/IsaacRamos1/100DaysOfCode/blob/master/final.jpg?raw=True”>
-
+![](images/filename final.jpg)
 
 
 
