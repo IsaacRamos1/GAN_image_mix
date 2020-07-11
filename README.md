@@ -10,7 +10,7 @@ ps.:the code it's not avaiable because i don't wat cause any trouble with author
 
 the final image contains the original, the GAN's output and her with 2 bonus effects:
 
-
+![alt text](https://github.com/IsaacRamos1/100DaysOfCode/blob/master/final_two.jpg?raw=true)
 
 the style-image used called: Young girl in a straw hat by Pierre Auguste Renoir
 
