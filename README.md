@@ -8,7 +8,7 @@ Hello, as i said, i searched ways to do this and i saw the brilliant job[1][2] a
 
 the final image contains the original, the GAN's output and her with 2 bonus effects:
 
-![](IsaacRamos1/100DaysOfCode/final.jpg)
+![](100DaysOfCode/final.jpg 100x20)
 
 
 
